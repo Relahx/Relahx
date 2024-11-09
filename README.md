@@ -1,16 +1,16 @@
-## Hi there 👋
+<h3 align="center">👋 Hello! I'm Leo.</h3>
 
-<!--
-**Relahx/Relahx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="Discord: Relvhx"</a>
+  <a href="https://twitter.com/Relvhx">X</a>
+</p>
 
-Here are some ideas to get you started:
+I have been a discord bots developer for over 7 years and a minecraft plugins developer for over 2 years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
+
+- 🧠 I am from Argentina and I am 16 years old
+
+- 📈 I developed more than 20 successful projects (node.js and java)
+
+- ❤️ I always give the highest possible quality in every project I have to do.
