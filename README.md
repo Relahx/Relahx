@@ -1,8 +1,8 @@
 <h3 align="center">👋 Hello! I'm Leo.</h3>
 
 <p align="center">
-  <a href="Discord: Relvhx"</a>
-  <a href="https://twitter.com/Relvhx">X</a>
+  Discord: Relvhx | 
+  <a href="https://twitter.com/Relvhx">Twitter</a>
 </p>
 
 I have been a discord bots developer for over 7 years and a minecraft plugins developer for over 2 years.
