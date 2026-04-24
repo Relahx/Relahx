@@ -9,7 +9,7 @@ I have been a discord bots developer for over 7 years and a minecraft plugins de
 
 **About me**
 
-- 🧠 I am from Argentina and I am 16 years old
+- 🧠 I am from Argentina and I am 17 years old
 
 - 📈 I developed more than 20 successful projects (node.js and java)
 
